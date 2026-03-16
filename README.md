@@ -103,9 +103,9 @@ README.md
 
 # License
 
-This repository is released under the **MIT License**.
+This repository is released under the **BSL License**.
 
-The goal is to maximize developer adoption and simplify reuse of documentation and examples.
+Free to use for R&D, NGOs, Non-profit.
 
 ---
 
