@@ -117,11 +117,7 @@ The internal processing engine and infrastructure are proprietary and maintained
 
 ---
 
-# Maintainer
 
-MCP Nantua is developed and maintained by **LGB SAS**.
-
----
 
 # Vision
 
@@ -133,3 +129,17 @@ MCP Nantua aims to make it simple for:
 * recruiting tools
 
 to interact with services built on top of the **Barba‑CV standard**.
+
+
+---
+
+
+# Maintainer
+
+MCP Nantua is developed and maintained by **LGB SAS**.
+
+www.nantua.net
+
+mcp access: mcp.nantua.net
+
+
