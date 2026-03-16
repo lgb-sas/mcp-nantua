@@ -18,7 +18,7 @@ Barba‑CV defines the **standard JSON format for CV data**, while MCP Nantua pr
 
 Barba‑CV specification repository:
 
-[https://github.com/eurobotics/barba-cv](https://github.com/eurobotics/barba-cv)
+https://github.com/Eurobotics-Association/barba-cv
 
 ---
 
